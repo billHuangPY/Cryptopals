@@ -15,6 +15,18 @@ The crptopals crypto challenges include below 8 sets of problems.
 The website of the challenges is
 https://cryptopals.com/
 
+## Formatting
+
+Installing:
+```
+python3 -m pip install black
+```
+
+Using black to format:
+```
+black --line-length=80 .
+```
+
 ## Thanks to...
 - Thomas Ptacek (@tqbf)
 - Sean Devlin (@spdevlin)
