@@ -2,7 +2,7 @@
 
 This is a write-up repository for me to store my notes practicing the cryptopals crypto challenges.
 
-The crptopals crypto challenges includes below 8 sets of problems. 
+The crptopals crypto challenges include below 8 sets of problems. 
 - Set 1: Basics
 - Set 2: Block Crypto
 - Set 3: Block and Stream crypto
